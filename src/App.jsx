@@ -38,8 +38,6 @@ function App() {
           Coded by <a href="https://www.linkedin.com/in/gabrie7santos/">Gabriel Santos</a>.
         </Attribution>
       </Container>
-
-      
     </>
   )
 }
