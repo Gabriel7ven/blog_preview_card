@@ -10,12 +10,6 @@
 
 ![Blog Preview Card Screenshot](public/images/card.png)
 
-## 🌐 Demonstração Online
-
-🔗 [gabriel7ven.github.io/blog_preview_card](https://gabriel7ven.github.io/blog_preview_card/)
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - ⚛️ **React** – Biblioteca para construção de interfaces
